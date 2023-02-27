@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\ananda.shumockbailey\Desktop\intermediate graphics code\GPR300_Lighting_Template\structs.h(44,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ananda.shumockbailey\Desktop\intermediate graphics code\GPR300_Lighting_Template\structs.h(45,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+  GPR300_Lighting.vcxproj -> C:\Users\ananda.shumockbailey\Desktop\intermediate graphics code\GPR300_Lighting_Template\x64\Debug\GPR300_Lighting.exe
